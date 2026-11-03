@@ -318,7 +318,7 @@ function App() {
                   />
                 </label>
                 <label className="field-group passenger-field" htmlFor="passenger-count">
-                  <span>Passengers <small>(1–6)</small></span>
+                  <span>Passengers <small>(whole number, 1–6)</small></span>
                   <input
                     id="passenger-count"
                     type="number"
